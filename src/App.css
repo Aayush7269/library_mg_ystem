@@ -1,0 +1,12 @@
+.admin-form{
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  width: 80vw;
+  border-radius: 20px;
+  box-shadow:10px black;
+}
+.main{
+  min-height: 75vh;
+
+}
